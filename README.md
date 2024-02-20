@@ -30,7 +30,7 @@ This is an app(web and android) which can help to locate dustbins in nearby area
 
 # Quick Start
 
-📄 Clone or fork this repo and change current directory to `undefined-DevHeat-2022`:
+📄 Clone or fork this repo and change current directory to `G-20 Sahastam Tech Fest- GBU`:
 
 
 
