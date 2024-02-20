@@ -2,6 +2,8 @@
 
 [`Watch it on YouTube`](https://youtu.be/RkBLsj5YE0s?si=9UoRNcWncYmGLdYQ)
 
+Currently this dApp is deployed on Render as  [https://binlocator.onrender.com](https://binlocator.onrender.com).
+
 
 # `NOTE`
 If you're planning to run this app locally, YOU MUST SETUP YOUR POSTGRESQL SERVER AND UPDATE URL IN .ENV FILE. OTHERWISE IT SIMPLY WON'T RUN. THE SCHEMA FOR DB TABLE IS IN QUERY FILE.
@@ -22,7 +24,7 @@ If you're planning to run this app locally, YOU MUST SETUP YOUR POSTGRESQL SERVE
 
 # Introduction
 
-This is our Project for Submission in the Hackathon `Devheat-2022`.
+This is our Project for Submission in the Hackathon `G-20 Sahastam Tech Fest- GBU`.
 
 This is an app(web and android) which can help to locate dustbins in nearby area.
 
@@ -30,14 +32,12 @@ This is an app(web and android) which can help to locate dustbins in nearby area
 
 📄 Clone or fork this repo and change current directory to `undefined-DevHeat-2022`:
 
-```sh
-git clone https://github.com/theanuragshukla/BINLocator-GDSCSolutionChallenge-2023.git
-```
+
 
 💿 Install all dependencies:
 
 ```sh
-cd BINLocator-GDSCSolutionChallenge-2023
+cd G-20 Sahastam Tech Fest- GBU
 npm install
 ```
 
